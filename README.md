@@ -1,7 +1,7 @@
 ```markdown
 # ScrollingViewApp 📱 Android Scrolling View Example
 
-A simple Android application demonstrating scrolling views using Java.
+A simple Android applications demonstrating scrolling views using Java.
 
 ## Badges
 
